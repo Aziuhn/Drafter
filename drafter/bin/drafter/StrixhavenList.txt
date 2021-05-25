@@ -1,0 +1,275 @@
+1, Environmental Sciences, Common
+2, Expanded Anatomy, Common
+3, Introduction to Annihilation, Common
+4, Introduction to Prophecy, Common
+5, Mascot Exhibition, Mythic
+6, Wandering Archaic, Rare
+7, Academic Probation, Rare
+8, Ageless Guardian, Common
+9, Beaming Defiance, Common
+10, Clever Lumimancer, Uncommon
+11, Combat Professor, Common
+12, Defend the Campus, Common
+13, Detention Vortex, Uncommon
+14, Devastating Mastery, Rare
+15, Dueling Coach, Uncommon
+16, Eager FirstYear, Common
+17, Elite Spellbinder, Rare
+18, Expel, Common
+19, Guiding Voice, Common
+20, Leonin Lightscribe, Rare
+21, Mavinda Students Advocate, Mythic
+22, Pilgrim of the Ages, Common
+23, Pillardrop Rescuer, Common
+24, Professor of Symbology, Uncommon
+25, Reduce to Memory, Uncommon
+26, Secret Rendezvous, Uncommon
+27, Semesters End, Rare
+28, Show of Confidence, Uncommon
+29, Sparring Regimen, Rare
+30, Star Pupil, Common
+31, Stonebinders Familiar, Uncommon
+32, Stonerise Spirit, Common
+33, Strict Proctor, Rare
+34, Study Break, Common
+35, Thunderous Orator, Uncommon
+36, Arcane Subtraction, Common
+37, Archmage Emeritus, Rare
+38, Burrog Befuddler, Common
+39, Bury in Books, Common
+40, Curate, Common
+41, Divide by Zero, Uncommon
+42, Dream Strix, Rare
+43, Frost Trickster, Common
+44, Ingenious Mastery, Rare
+45, Kelpie Guide, Uncommon
+46, Mentors Guidance, Uncommon
+47, Mercurial Transformation, Uncommon
+48, Multiple Choice, Rare
+49, Pop Quiz, Common
+50, Reject, Common
+51, Resculpt, Common
+52, Serpentine Curve, Common
+53, Snow Day, Uncommon
+54, Solve the Equation, Uncommon
+55, Soothsayer Adept, Common
+56, Symmetry Sage, Uncommon
+57, Teachings of the Archaics, Rare
+58, Tempted by the Oriq, Rare
+59, Test of Talents, Uncommon
+60, Vortex Runner, Common
+61, Waterfall Aerialist, Common
+62, Wormhole Serpent, Uncommon
+63, Arrogant Poet, Common
+64, Baleful Mastery, Rare
+65, Brackish Trudge, Uncommon
+66, Callous Bloodmage, Rare
+67, Confront the Past, Rare
+68, Crushing Disappointment, Common
+69, Essence Infusion, Common
+70, Eyetwitch, Uncommon
+71, Flunk, Uncommon
+72, Go Blank, Uncommon
+73, Hunt for Specimens, Common
+74, Lash of Malice, Common
+75, Leech Fanatic, Common
+76, Mage Hunter, Uncommon
+77, Mage Hunters Onslaught, Common
+78, Necrotic Fumes, Uncommon
+79, Novice Dissector, Common
+80, Oriq Loremage, Rare
+81, Plumb the Forbidden, Uncommon
+82, Poets Quill, Rare
+83, Professor Onyx, Mythic
+84, Professors Warning, Common
+85, Promising Duskmage, Common
+86, Sedgemoor Witch, Rare
+87, Specter of the Fens, Common
+88, Tenured Inkcaster, Uncommon
+89, Umbral Juke, Uncommon
+90, Unwilling Ingredient, Common
+91, Academic Dispute, Uncommon
+92, Ardent Dustspeaker, Uncommon
+93, Blood Age General, Common
+94, Conspiracy Theorist, Rare
+95, Crackle with Power, Mythic
+96, Draconic Intervention, Rare
+97, Dragons Approach, Common
+98, Efreet Flamepainter, Rare
+99, Enthusiastic Study, Common
+100, Explosive Welcome, Uncommon
+101, Fervent Mastery, Rare
+102, First Day of Class, Common
+103, Fuming Effigy, Common
+104, Grinning Ignus, Uncommon
+105, Hall Monitor, Uncommon
+106, Heated Debate, Common
+107, Igneous Inspiration, Uncommon
+108, Illuminate History, Rare
+109, Illustrious Historian, Common
+110, Mascot Interception, Uncommon
+111, Pigment Storm, Common
+112, Pillardrop Warden, Common
+113, Retriever Phoenix, Rare
+114, Start from Scratch, Uncommon
+115, StormKiln Artist, Uncommon
+116, Sudden Breakthrough, Common
+117, Tome Shredder, Common
+118, Twinscroll Shaman, Common
+119, Accomplished Alchemist, Rare
+120, Basic Conjuration, Rare
+121, Bayou Groff, Common
+122, Big Play, Common
+123, Bookwurm, Uncommon
+124, Charge Through, Common
+125, Containment Breach, Uncommon
+126, Devouring Tendrils, Uncommon
+127, Dragonsguard Elite, Rare
+128, Ecological Appreciation, Mythic
+129, Emergent Sequence, Uncommon
+130, Exponential Growth, Rare
+131, Field Trip, Common
+132, Fortifying Draught, Uncommon
+133, Gnarled Professor, Rare
+134, Honor Troll, Uncommon
+135, Karok Wrangler, Uncommon
+136, Leyline Invocation, Common
+137, Mage Duel, Common
+138, Master Symmetrist, Uncommon
+139, Overgrown Arch, Uncommon
+140, Professor of Zoomancy, Common
+141, Reckless Amplimancer, Common
+142, Scurrid Colony, Common
+143, Spined Karok, Common
+144, Springmane Cervin, Common
+145, Tangletrap, Common
+146, Verdant Mastery, Rare
+147, Augmenter Pugilist, Rare
+148, Blex Vexing Pest, Mythic
+149, Extus Oriq Overlord, Mythic
+150, Flamescroll Celebrant, Rare
+151, Jadzi Oracle of Arcavios, Mythic
+152, Kianne Dean of Substance, Rare
+153, Mila Crafty Companion, Mythic
+154, Pestilent Cauldron, Rare
+155, Plargg Dean of Chaos, Rare
+156, Rowan Scholar of Sparks, Mythic
+157, Selfless Glyphweaver, Rare
+158, Shaile Dean of Radiance, Rare
+159, Torrent Sculptor, Rare
+160, Uvilda Dean of Perfection, Rare
+161, Valentin Dean of the Vein, Rare
+162, Aether Helix, Uncommon
+163, Beledros Witherbloom, Mythic
+164, Biomathematician, Common
+165, Blade Historian, Rare
+166, Blood Researcher, Common
+167, Blot Out the Sky, Mythic
+168, Body of Research, Mythic
+169, Closing Statement, Uncommon
+170, Cram Session, Common
+171, Creative Outburst, Uncommon
+172, Culling Ritual, Rare
+173, Culmination of Studies, Rare
+174, Daemogoth Titan, Rare
+175, Daemogoth WoeEater, Uncommon
+176, Deadly Brew, Uncommon
+177, Decisive Denial, Uncommon
+178, Dina Soul Steeper, Uncommon
+179, Double Major, Rare
+180, Dramatic Finale, Rare
+181, Elemental Expressionist, Rare
+182, Elemental Masterpiece, Common
+183, Elemental Summoning, Common
+184, Eureka Moment, Common
+185, Exhilarating Elocution, Common
+186, Expressive Iteration, Uncommon
+187, Fractal Summoning, Common
+188, Fracture, Uncommon
+189, Galazeth Prismari, Mythic
+190, Golden Ratio, Uncommon
+191, Harness Infinity, Mythic
+192, Hofri Ghostforge, Mythic
+193, Humiliate, Uncommon
+194, Infuse with Vitality, Common
+195, Inkling Summoning, Common
+196, Kasmina Enigma Sage, Mythic
+197, Killian Ink Duelist, Uncommon
+198, Lorehold Apprentice, Uncommon
+199, Lorehold Command, Rare
+200, Lorehold Excavation, Uncommon
+201, Lorehold Pledgemage, Common
+202, Maelstrom Muse, Uncommon
+203, Magma Opus, Mythic
+204, Make Your Mark, Common
+205, Manifestation Sage, Rare
+206, Moldering Karok, Common
+207, Mortality Spear, Uncommon
+208, Needlethorn Drake, Common
+209, Oggyar BattleSeer, Common
+210, Owlin Shieldmage, Common
+211, Pest Summoning, Common
+212, Practical Research, Uncommon
+213, Prismari Apprentice, Uncommon
+214, Prismari Command, Rare
+215, Prismari Pledgemage, Common
+216, Quandrix Apprentice, Uncommon
+217, Quandrix Command, Rare
+218, Quandrix Cultivator, Uncommon
+219, Quandrix Pledgemage, Common
+220, Quintorius Field Historian, Uncommon
+221, Radiant Scrollwielder, Rare
+222, Reconstruct History, Uncommon
+223, Relic Sloth, Common
+224, Returned Pastcaller, Uncommon
+225, Rip Apart, Uncommon
+226, Rise of Extus, Common
+227, Rootha Mercurial Artist, Uncommon
+228, Rushed Rebirth, Rare
+229, Shadewing Laureate, Uncommon
+230, Shadrix Silverquill, Mythic
+231, Silverquill Apprentice, Uncommon
+232, Silverquill Command, Rare
+233, Silverquill Pledgemage, Common
+234, Silverquill Silencer, Rare
+235, Spectacle Mage, Common
+236, Spirit Summoning, Common
+237, Spiteful Squad, Common
+238, Square Up, Common
+239, Stonebound Mentor, Common
+240, Tanazir Quandrix, Mythic
+241, Teach by Example, Common
+242, Tend the Pests, Uncommon
+243, Thrilling Discovery, Common
+244, Vanishing Verse, Rare
+245, Velomachus Lorehold, Mythic
+246, Venerable Warsinger, Rare
+247, Witherbloom Apprentice, Uncommon
+248, Witherbloom Command, Rare
+249, Witherbloom Pledgemage, Common
+250, Zimone Quandrix Prodigy, Uncommon
+251, Biblioplex Assistant, Common
+252, Campus Guide, Common
+253, Codie Vociferous Codex, Rare
+254, Cogwork Archivist, Common
+255, Excavated Wall, Common
+256, Letter of Acceptance, Common
+257, Reflective Golem, Uncommon
+258, Spell Satchel, Uncommon
+259, Strixhaven Stadium, Rare
+260, Team Pennant, Uncommon
+261, Zephyr Boots, Uncommon
+262, Access Tunnel, Uncommon
+263, Archway Commons, Common
+264, The Biblioplex, Rare
+265, Frostboil Snarl, Rare
+266, Furycalm Snarl, Rare
+267, Hall of Oracles, Rare
+268, Lorehold Campus, Common
+269, Necroblossom Snarl, Rare
+270, Prismari Campus, Common
+271, Quandrix Campus, Common
+272, Shineshadow Snarl, Rare
+273, Silverquill Campus, Common
+274, Vineglimmer Snarl, Rare
+275, Witherbloom Campus, Common

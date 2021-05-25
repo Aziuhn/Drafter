@@ -1,0 +1,550 @@
+1	Environmental Sciences	
+Common	$ 0.25	$ 0.00	0%	$ 0.00	0%
+2	Expanded Anatomy	
+Common	$ 0.20	$ -0.01	-5%	$ 0.00	0%
+3	Introduction to Annihilation	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+4	Introduction to Prophecy	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+5	Mascot Exhibition	
+Mythic	$ 0.79	$ 0.00	0%	$ 0.00	0%
+6	Wandering Archaic	
+Rare	$ 9.46	$ 0.47	5%	$ 0.47	5%
+7	Academic Probation	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+8	Ageless Guardian	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+9	Beaming Defiance	 
+Common	$ 0.20	$ -0.01	-5%	$ -0.01	-5%
+10	Clever Lumimancer	
+Uncommon	$ 1.46	$ -0.05	-3%	$ -0.21	-13%
+11	Combat Professor	 
+Common	$ 0.21	$ 0.00	0%	$ -0.01	-4%
+12	Defend the Campus	
+Common	$ 0.19	$ -0.01	-5%	$ -0.01	-5%
+13	Detention Vortex	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+14	Devastating Mastery	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+15	Dueling Coach	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+16	Eager First-Year	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+17	Elite Spellbinder	
+Rare	$ 2.99	$ 0.01	0%	$ 0.05	2%
+18	Expel	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+19	Guiding Voice	
+Common	$ 0.20	$ -0.01	-5%	$ -0.03	-13%
+20	Leonin Lightscribe	
+Rare	$ 0.35	$ 0.00	0%	$ 0.00	0%
+21	Mavinda, Students' Advocate	
+Mythic	$ 2.00	$ 0.01	1%	$ 0.21	12%
+22	Pilgrim of the Ages	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+23	Pillardrop Rescuer	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+24	Professor of Symbology	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+25	Reduce to Memory	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+26	Secret Rendezvous	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+27	Semester's End	
+Rare	$ 0.35	$ 0.00	0%	$ -0.04	-10%
+28	Show of Confidence	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+29	Sparring Regimen	
+Rare	$ 0.25	$ 0.00	0%	$ -0.10	-29%
+30	Star Pupil	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+31	Stonebinder's Familiar	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+32	Stonerise Spirit	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+33	Strict Proctor	
+Rare	$ 0.99	$ 0.00	0%	$ -0.52	-35%
+34	Study Break	
+Common	$ 0.24	$ 0.00	0%	$ -0.01	-4%
+35	Thunderous Orator	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+36	Arcane Subtraction	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+37	Archmage Emeritus	 
+Rare	$ 2.13	$ 0.01	0%	$ 0.22	12%
+38	Burrog Befuddler	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+39	Bury in Books	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+40	Curate	
+Common	$ 0.21	$ 0.00	0%	$ 0.00	0%
+41	Divide by Zero	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+42	Dream Strix	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+43	Frost Trickster	
+Common	$ 0.21	$ 0.00	0%	$ 0.00	0%
+44	Ingenious Mastery	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+45	Kelpie Guide	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+46	Mentor's Guidance	 
+Uncommon	$ 0.23	$ -0.01	-4%	$ 0.00	0%
+47	Mercurial Transformation	 
+Uncommon	$ 0.24	$ 0.00	0%	$ 0.00	0%
+48	Multiple Choice	 
+Rare	$ 0.25	$ 0.00	0%	$ -0.16	-39%
+49	Pop Quiz	 
+Common	$ 0.20	$ -0.01	-5%	$ -0.02	-9%
+50	Reject	 
+Common	$ 0.25	$ 0.00	0%	$ 0.00	0%
+51	Resculpt	 
+Common	$ 0.22	$ -0.01	-4%	$ 0.00	0%
+52	Serpentine Curve	 
+Common	$ 0.21	$ 0.00	0%	$ 0.00	0%
+53	Snow Day	  
+Uncommon	$ 0.24	$ 0.00	0%	$ 0.00	0%
+54	Solve the Equation	 
+Uncommon	$ 1.49	$ 0.00	0%	$ -0.30	-17%
+55	Soothsayer Adept	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+56	Symmetry Sage	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+57	Teachings of the Archaics	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+58	Tempted by the Oriq	  
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+59	Test of Talents	 
+Uncommon	$ 0.39	$ 0.00	0%	$ 0.00	0%
+60	Vortex Runner	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+61	Waterfall Aerialist	 
+Common	$ 0.19	$ -0.01	-5%	$ -0.01	-5%
+62	Wormhole Serpent	 
+Uncommon	$ 0.24	$ 0.00	0%	$ 0.00	0%
+63	Arrogant Poet	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+64	Baleful Mastery	
+Rare	$ 1.30	$ 0.03	2%	$ 0.16	14%
+65	Brackish Trudge	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+66	Callous Bloodmage	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+67	Confront the Past	 
+Rare	$ 0.25	$ 0.00	0%	$ -0.03	-11%
+68	Crushing Disappointment	 
+Common	$ 0.20	$ -0.01	-5%	$ -0.01	-5%
+69	Essence Infusion	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+70	Eyetwitch	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+71	Flunk	 
+Uncommon	$ 0.22	$ -0.02	-8%	$ 0.00	0%
+72	Go Blank	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+73	Hunt for Specimens	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+74	Lash of Malice	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+75	Leech Fanatic	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+76	Mage Hunter	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+77	Mage Hunters' Onslaught	  
+Common	$ 0.19	$ 0.00	0%	$ -0.01	-5%
+78	Necrotic Fumes	  
+Uncommon	$ 0.24	$ -0.01	-4%	$ -0.01	-4%
+79	Novice Dissector	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+80	Oriq Loremage	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+81	Plumb the Forbidden	
+Uncommon	$ 0.49	$ 0.00	0%	$ 0.00	0%
+82	Poet's Quill	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+83	Professor Onyx	  
+Mythic	$ 15.60	$ -0.01	0%	$ -0.28	-2%
+84	Professor's Warning	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+85	Promising Duskmage	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+86	Sedgemoor Witch	 
+Rare	$ 3.77	$ 0.70	23%	$ 1.24	49%
+87	Specter of the Fens	 
+Common	$ 0.18	$ -0.01	-5%	$ -0.01	-5%
+88	Tenured Inkcaster	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+89	Umbral Juke	 
+Uncommon	$ 0.22	$ -0.01	-4%	$ -0.01	-4%
+90	Unwilling Ingredient	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+91	Academic Dispute	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+92	Ardent Dustspeaker	 
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+93	Blood Age General	 
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+94	Conspiracy Theorist	 
+Rare	$ 0.35	$ 0.00	0%	$ -0.05	-12%
+95	Crackle with Power	    
+Mythic	$ 2.99	$ 0.32	12%	$ 0.27	10%
+96	Draconic Intervention	  
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+97	Dragon's Approach	 
+Common	$ 2.66	$ -0.02	-1%	$ 0.39	17%
+98	Efreet Flamepainter	 
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+99	Enthusiastic Study	 
+Common	$ 0.21	$ 0.00	0%	$ -0.02	-9%
+100	Explosive Welcome	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+101	Fervent Mastery	  
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+102	First Day of Class	 
+Common	$ 0.20	$ -0.01	-5%	$ -0.01	-5%
+103	Fuming Effigy	 
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+104	Grinning Ignus	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+105	Hall Monitor	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.01	4%
+106	Heated Debate	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+107	Igneous Inspiration	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+108	Illuminate History	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+109	Illustrious Historian	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+110	Mascot Interception	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+111	Pigment Storm	
+Common	$ 0.18	$ -0.01	-5%	$ -0.01	-5%
+112	Pillardrop Warden
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+113	Retriever Phoenix
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+114	Start from Scratch	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+115	Storm-Kiln Artist	
+Uncommon	$ 0.69	$ 0.00	0%	$ -0.01	-1%
+116	Sudden Breakthrough	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+117	Tome Shredder	
+Common	$ 0.20	$ 0.00	0%	$ -0.02	-9%
+118	Twinscroll Shaman	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+119	Accomplished Alchemist	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+120	Basic Conjuration	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+121	Bayou Groff	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+122	Big Play	
+Common	$ 0.18	$ -0.01	-5%	$ -0.01	-5%
+123	Bookwurm	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+124	Charge Through	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+125	Containment Breach	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+126	Devouring Tendrils	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+127	Dragonsguard Elite	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+128	Ecological Appreciation	
+Mythic	$ 2.62	$ -0.09	-3%	$ -0.15	-5%
+129	Emergent Sequence	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+130	Exponential Growth	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+131	Field Trip	
+Common	$ 0.20	$ 0.00	0%	$ -0.02	-9%
+132	Fortifying Draught	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+133	Gnarled Professor	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+134	Honor Troll	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+135	Karok Wrangler	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+136	Leyline Invocation	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+137	Mage Duel	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+138	Master Symmetrist	
+Uncommon	$ 0.24	$ -0.01	-4%	$ -0.01	-4%
+139	Overgrown Arch	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+140	Professor of Zoomancy	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+141	Reckless Amplimancer	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+142	Scurrid Colony	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+143	Spined Karok	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+144	Springmane Cervin	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+145	Tangletrap	
+Common	$ 0.19	$ -0.01	-5%	$ -0.01	-5%
+146	Verdant Mastery	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+147	Augmenter Pugilist	
+Rare	$ 0.49	$ 0.00	0%	$ -0.10	-17%
+148	Blex, Vexing Pest	
+Mythic	$ 2.90	$ 0.03	1%	$ 0.10	4%
+149	Extus, Oriq Overlord	
+Mythic	$ 3.71	$ 0.05	1%	$ -0.12	-3%
+150	Flamescroll Celebrant	
+Rare	$ 0.25	$ 0.00	0%	$ -0.02	-8%
+151	Jadzi, Oracle of Arcavios	
+Mythic	$ 4.00	$ -0.25	-6%	$ -0.65	-14%
+152	Kianne, Dean of Substance	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+153	Mila, Crafty Companion	
+Mythic	$ 4.54	$ -0.04	-1%	$ -0.62	-12%
+154	Pestilent Cauldron	
+Rare	$ 0.25	$ 0.00	0%	$ -0.12	-33%
+155	Plargg, Dean of Chaos	
+Rare	$ 0.25	$ 0.00	0%	$ -0.10	-29%
+156	Rowan, Scholar of Sparks	
+Mythic	$ 5.75	$ 0.39	7%	$ 1.06	23%
+157	Selfless Glyphweaver	
+Rare	$ 0.25	$ 0.00	0%	$ -0.14	-36%
+158	Shaile, Dean of Radiance	
+Rare	$ 0.25	$ 0.00	0%	$ -0.10	-29%
+159	Torrent Sculptor	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+160	Uvilda, Dean of Perfection
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+161	Valentin, Dean of the Vein	
+Rare	$ 1.38	$ -0.02	-1%	$ 0.09	7%
+162	Aether Helix	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+163	Beledros Witherbloom	
+Mythic	$ 19.99	$ 0.03	0%	$ 1.73	9%
+164	Biomathematician	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+165	Blade Historian	
+Rare	$ 0.35	$ 0.00	0%	$ 0.00	0%
+166	Blood Researcher	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+167	Blot Out the Sky	
+Mythic	$ 2.19	$ 0.00	0%	$ -0.15	-6%
+168	Body of Research	
+Mythic	$ 3.25	$ 0.00	0%	$ -0.25	-7%
+169	Closing Statement	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+170	Cram Session	
+Common	$ 0.19	$ -0.01	-5%	$ -0.01	-5%
+171	Creative Outburst	
+Uncommon	$ 0.24	$ 0.00	0%	$ 0.00	0%
+172	Culling Ritual	
+Rare	$ 1.99	$ 0.03	2%	$ 0.23	13%
+173	Culmination of Studies	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+174	Daemogoth Titan	
+Rare	$ 0.49	$ 0.00	0%	$ -0.08	-14%
+175	Daemogoth Woe-Eater	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+176	Deadly Brew	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+177	Decisive Denial	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+178	Dina, Soul Steeper	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+179	Double Major	
+Rare	$ 2.05	$ -0.04	-2%	$ -0.01	0%
+180	Dramatic Finale	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+181	Elemental Expressionist	
+Rare	$ 0.25	$ 0.00	0%	$ -0.02	-8%
+182	Elemental Masterpiece	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+183	Elemental Summoning	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+184	Eureka Moment	
+Common	$ 0.25	$ 0.00	0%	$ 0.00	0%
+185	Exhilarating Elocution	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+186	Expressive Iteration
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+187	Fractal Summoning	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+188	Fracture	
+Uncommon	$ 0.99	$ 0.00	0%	$ -0.07	-7%
+189	Galazeth Prismari	
+Mythic	$ 14.00	$ 0.01	0%	$ 0.10	1%
+190	Golden Ratio	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+191	Harness Infinity	
+Mythic	$ 2.61	$ -0.03	-1%	$ -0.22	-8%
+192	Hofri Ghostforge	
+Mythic	$ 1.94	$ -0.02	-1%	$ -0.04	-2%
+193	Humiliate	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+194	Infuse with Vitality	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+195	Inkling Summoning	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+196	Kasmina, Enigma Sage	
+Mythic	$ 5.49	$ 0.00	0%	$ 1.30	31%
+197	Killian, Ink Duelist	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+198	Lorehold Apprentice	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+199	Lorehold Command	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+200	Lorehold Excavation	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+201	Lorehold Pledgemage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+202	Maelstrom Muse	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+203	Magma Opus	
+Mythic	$ 3.13	$ 0.14	5%	$ 0.27	9%
+204	Make Your Mark	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+205	Manifestation Sage	
+Rare	$ 0.25	$ 0.00	0%	$ -0.02	-8%
+206	Moldering Karok	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+207	Mortality Spear	
+Uncommon	$ 0.25	$ 0.00	0%	$ -0.04	-14%
+208	Needlethorn Drake
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+209	Oggyar Battle-Seer	
+Common	$ 0.19	$ 0.00	0%	$ -0.01	-5%
+210	Owlin Shieldmage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+211	Pest Summoning	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+212	Practical Research	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+213	Prismari Apprentice	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+214	Prismari Command	
+Rare	$ 3.32	$ 0.17	5%	$ 0.23	7%
+215	Prismari Pledgemage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+216	Quandrix Apprentice	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+217	Quandrix Command	
+Rare	$ 0.49	$ 0.00	0%	$ 0.00	0%
+218	Quandrix Cultivator	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+219	Quandrix Pledgemage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+220	Quintorius, Field Historian	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+221	Radiant Scrollwielder	
+Rare	$ 0.25	$ 0.00	0%	$ -0.10	-29%
+222	Reconstruct History	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+223	Relic Sloth	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+224	Returned Pastcaller	
+Uncommon	$ 0.24	$ 0.00	0%	$ 0.00	0%
+225	Rip Apart	
+Uncommon	$ 0.79	$ 0.00	0%	$ -0.13	-14%
+226	Rise of Extus	
+Common	$ 0.22	$ -0.02	-8%	$ -0.03	-12%
+227	Rootha, Mercurial Artist	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+228	Rushed Rebirth	
+Rare	$ 1.29	$ 0.00	0%	$ 0.00	0%
+229	Shadewing Laureate	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+230	Shadrix Silverquill	
+Mythic	$ 7.99	$ 0.68	9%	$ 1.81	29%
+231	Silverquill Apprentice	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+232	Silverquill Command	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+233	Silverquill Pledgemage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+234	Silverquill Silencer	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+235	Spectacle Mage	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+236	Spirit Summoning	
+Common	$ 0.19	$ 0.00	0%	$ -0.01	-5%
+237	Spiteful Squad	
+Common	$ 0.21	$ 0.00	0%	$ 0.00	0%
+238	Square Up	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+239	Stonebound Mentor	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+240	Tanazir Quandrix	
+Mythic	$ 5.47	$ -0.01	0%	$ 0.22	4%
+241	Teach by Example	
+Common	$ 0.22	$ 0.00	0%	$ -0.01	-4%
+242	Tend the Pests	
+Uncommon	$ 0.25	$ 0.00	0%	$ -0.04	-14%
+243	Thrilling Discovery	
+Common	$ 0.25	$ 0.00	0%	$ 0.00	0%
+244	Vanishing Verse	
+Rare	$ 2.83	$ -0.07	-2%	$ 0.04	1%
+245	Velomachus Lorehold	
+Mythic	$ 5.96	$ 0.47	9%	$ 0.97	19%
+246	Venerable Warsinger	
+Rare	$ 0.29	$ 0.00	0%	$ 0.00	0%
+247	Witherbloom Apprentice	
+Uncommon	$ 0.35	$ 0.00	0%	$ 0.02	6%
+248	Witherbloom Command	
+Rare	$ 0.99	$ 0.00	0%	$ 0.00	0%
+249	Witherbloom Pledgemage	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+250	Zimone, Quandrix Prodigy	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+251	Biblioplex Assistant	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+252	Campus Guide	
+Common	$ 0.20	$ 0.00	0%	$ -0.01	-5%
+253	Codie, Vociferous Codex	
+Rare	$ 0.35	$ 0.00	0%	$ -0.03	-8%
+254	Cogwork Archivist	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+255	Excavated Wall	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+256	Letter of Acceptance	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+257	Reflective Golem	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+258	Spell Satchel	
+Uncommon	$ 0.24	$ -0.01	-4%	$ 0.00	0%
+259	Strixhaven Stadium	
+Rare	$ 1.02	$ -0.05	-5%	$ -0.11	-10%
+260	Team Pennant	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.01	4%
+261	Zephyr Boots	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+262	Access Tunnel	
+Uncommon	$ 0.25	$ 0.00	0%	$ 0.00	0%
+263	Archway Commons	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+264	The Biblioplex	
+Rare	$ 0.99	$ 0.00	0%	$ -0.05	-5%
+265	Frostboil Snarl	
+Rare	$ 1.95	$ 0.06	3%	$ 0.17	10%
+266	Furycalm Snarl	
+Rare	$ 1.65	$ 0.09	6%	$ 0.12	8%
+267	Hall of Oracles	
+Rare	$ 0.25	$ 0.00	0%	$ 0.00	0%
+268	Lorehold Campus	
+Common	$ 0.24	$ 0.00	0%	$ -0.01	-4%
+269	Necroblossom Snarl	
+Rare	$ 2.08	$ 0.08	4%	$ 0.07	3%
+270	Prismari Campus	
+Common	$ 0.20	$ 0.00	0%	$ 0.00	0%
+271	Quandrix Campus	
+Common	$ 0.19	$ 0.00	0%	$ -0.01	-5%
+272	Shineshadow Snarl	
+Rare	$ 1.78	$ -0.04	-2%	$ 0.04	2%
+273	Silverquill Campus	
+Common	$ 0.19	$ 0.00	0%	$ -0.01	-5%
+274	Vineglimmer Snarl	
+Rare	$ 1.87	$ 0.07	4%	$ 0.02	1%
+275	Witherbloom Campus	
+Common	$ 0.19	$ -0.01	-5%	$ -0.01	-5%

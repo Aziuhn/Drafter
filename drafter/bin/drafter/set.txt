@@ -1,0 +1,21 @@
+Sedgemoore Witch, R
+Whiterbloom Apprentice, C
+Plumb the forbidden, C
+Sedgemoore Witch1, C
+Whiterbloom Apprentice1, U
+Plumb the forbidden1, U
+Sedgemoore Witch2, R
+Whiterbloom Apprentice2, C
+Plumb the forbidden2, U
+Sedgemoore Witch3, C
+Whiterbloom Apprentice3, U
+Plumb the forbidden3, C
+Sedgemoore Witch4, C
+Whiterbloom Apprentice4, C
+Plumb the forbidden4, U
+Sedgemoore Witch5, R
+Whiterbloom Apprentice5, C
+Plumb the forbidden5, C
+Sedgemoore Witch6, U
+Whiterbloom Apprentice6, C
+Plumb the forbidden6, C
