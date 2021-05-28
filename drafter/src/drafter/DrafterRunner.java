@@ -3,6 +3,7 @@ package drafter;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -19,6 +20,7 @@ public class DrafterRunner {
 		ArrayList<Card> setList = new ArrayList<Card>();
 		ArrayList<Card> draftPack = new ArrayList<Card>();
 		FileInputStream setListFile = new FileInputStream("./src/drafter/StrixhavenList.txt");
+		FileWriter htmlFile = new FileWriter("./src/drafter/DraftPack/HTMLDraftPack.html");
 		Scanner sc = new Scanner(setListFile);
 		final int raresPerPack = 1;
 		final int uncommonsPerPack = 3;
@@ -35,8 +37,15 @@ public class DrafterRunner {
 
 		ArrayList<Card> rares = new ArrayList<Card>();
 		for (int i = 0; i < setList.size(); i++) {
-			if (correctRarity(setList.get(i), "Rare") || correctRarity(setList.get(i), "Mythic")) {
+			if (correctRarity(setList.get(i), "Rare")) {
 				rares.add(setList.get(i));
+			}
+		}
+		
+		ArrayList<Card> mythics = new ArrayList<Card>();
+		for (int i = 0; i < setList.size(); i++) {
+			if (correctRarity(setList.get(i), "Mythic")) {
+				mythics.add(setList.get(i));
 			}
 		}
 
@@ -53,41 +62,22 @@ public class DrafterRunner {
 				commons.add(setList.get(i));
 			}
 		}
-
-		for (int i = 0; i < raresPerPack; i++) {
-			boolean present = false;
-			Card card = new Card();
-			do {
-				card = generateCard(rares);
-				present = isPresent(draftPack, card);
-			} while (present);
-			draftPack.add(card);
+		
+		if(Math.random()<0.125) {
+			addCardToPack (raresPerPack, mythics, draftPack);
+		} else {
+			addCardToPack (raresPerPack, rares, draftPack);
 		}
 
-		for (int i = 0; i < uncommonsPerPack; i++) {
-			boolean present = false;
-			Card card = new Card();
-			do {
-				card = generateCard(uncommons);
-				present = isPresent(draftPack, card);
-			} while (present);
-			draftPack.add(card);
-		}
+		addCardToPack (uncommonsPerPack, uncommons, draftPack);
 
-		for (int i = 0; i < commonsPerPack; i++) {
-			boolean present = false;
-			Card card = new Card();
-			do {
-				card = generateCard(commons);
-				present = isPresent(draftPack, card);
-			} while (present);
-			draftPack.add(card);
-		}
+		addCardToPack (commonsPerPack, commons, draftPack);
 
 		// System.out.println(draftPack);
 		/*
 		 * for (Card card : draftPack) { System.out.println(card.getName()); }
 		 */
+		
 		for (Card card : draftPack) {
 			String cardName = card.getName().replace(" ", "-");
 			URLConnection connection = new URL("https://scryfall.com/card/stx/" + card.getId() + "/" + cardName)
@@ -99,17 +89,35 @@ public class DrafterRunner {
 			int startUrlIndex = content.indexOf(strToSearch) + strToSearch.length();
 			int endUrlIndex = content.indexOf("\"", startUrlIndex);
 			String url = content.substring(startUrlIndex, endUrlIndex);
-			downloadAndSaveImage(url, "./src/drafter/Draft Pack/"+card.getName()+".jpg", "jpg");
-			//System.out.println(url);
-			
+//			downloadAndSaveImage(url, "./src/drafter/Draft Pack/"+card.getName()+".jpg", "jpg");
+//			System.out.println(url);
+			htmlFile.write("<img style='height:336;width:240;border:1px solid white' src='"+url+"'>");
 		}
+		
+		
+		
+		
 		
 		System.out.println("Finito!");
 		// scanner.close();
-
+		htmlFile.close();
 		sc.close();
 	}
-
+	
+//	Funzioni
+	
+	static void addCardToPack (int rarityPerPack, ArrayList<Card> rarityList, ArrayList<Card> draftPack) {
+		for (int i = 0; i < rarityPerPack; i++) {
+			boolean present = false;
+			Card card = new Card();
+			do {
+				card = generateCard(rarityList);
+				present = isPresent(draftPack, card);
+			} while (present);
+			draftPack.add(card);
+		}
+	}
+	
 	static Card generateCard(ArrayList<Card> setList) {
 		Card card = new Card();
 		int index = (int) (Math.random() * setList.size());
